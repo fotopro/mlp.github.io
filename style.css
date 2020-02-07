@@ -344,14 +344,17 @@ body{
 /*---------------------------------5 page -------------------------------------------*/
 
 .images5p{
-	min-width: 1270px;
+	
 
 		margin:0 auto;
 	display: flex;
 		width:100%;
-		max-width: 1371px;
+	
 	height: 319px;
 text-align: center;
+min-width: 1270px;
+	max-width: 1366px;
+
 
 }
 
@@ -368,7 +371,7 @@ text-align: center;
 		position: relative;
 }
 #ph1{
-	width:701px;
+	width:696px;
 }
 #ph2{
 	width:336px;
@@ -430,7 +433,7 @@ position: relative;
 		margin:0 auto;
 	display: flex;
 		width:100%;
-		max-width: 1371px;
+		max-width: 1366px;
 	
 }
 
@@ -441,6 +444,7 @@ width:100%;
 	left:0;
 	right: 0;
 	bottom: 0;
+	max-width: 1366px;
 }
 
 }
@@ -485,10 +489,10 @@ width:100%;
 	margin-top:113px;
 	width:100%;
 	height:100%;
-	max-width: 1366px;
 	max-height: 646px;/* приблизительно,отредактируй сверив с главным файлом*/
 	background-color: #f3f3f3;
 	min-width: 1270px;
+	max-width: 1366px;
 
 }
 

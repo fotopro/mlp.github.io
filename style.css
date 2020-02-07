@@ -399,7 +399,7 @@ min-width: 1270px;
 	top:0;
 	left:0;
 	z-index: 6;
-	background-image: url('img/hoverimg25p.png');background-color: rgba(0,0,0,0.75);
+	background-image: url('images/hoverimg25p.png');background-color: rgba(0,0,0,0.75);
 	background-blend-mode: overlay;
 	
 }
@@ -413,7 +413,7 @@ min-width: 1270px;
 	top:0;
 	left:0;
 	z-index: 6;
-	background-image: url('img/hoverimg35p.png');background-color: rgba(0,0,0,0.75);
+	background-image: url('images/hoverimg35p.png');background-color: rgba(0,0,0,0.75);
 	background-blend-mode: overlay;
 	
 }
@@ -479,8 +479,6 @@ width:100%;
 	button:focus{
 		outline: none;
 	}
-
-
 	/*-----------------------------------------------------------------------6 page-------------------------------------*/
 
 .wrapper6p{

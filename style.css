@@ -7,10 +7,12 @@ body{
 	margin:0;
 	padding: 0;
 	min-width: 1366px;
-
+-webkit-font-smoothing: antialiased;
 }
-*{
-	-webkit-font-smoothing:antialised;
+*,
+*:before,
+*:after{
+	
 }
 
 /*----------------------------------font--------------------------*/

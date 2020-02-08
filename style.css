@@ -1,7 +1,3 @@
-@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (orientation : portrait) { 
-body{width:419px;
-overflow-x: hidden;}
-}
 
 
 
@@ -10,7 +6,7 @@ body{
 	max-width: 1366px;
 	margin:0;
 	padding: 0;
-	min-width: 1270px;
+	min-width: 1366px;
 
 }
 *{
@@ -777,7 +773,7 @@ font-family: 'Open Sans', sans-serif;
 	font-family: 'Open Sans', sans-serif;
 	color:#464646;
 	font-size: 16px;
-	padding:0 30px;
+	padding:0 20px;
 }
 
 #rel{
@@ -795,3 +791,426 @@ font-family: 'Open Sans', sans-serif;
     left: 13px;
     border-bottom: 2px solid #19bd9a;
 }
+
+
+
+/*----------------------------------------nine    page-----------------------------------*/
+.wrapper_9p{
+	background-color:#f3f3f3;
+	margin: 100px auto 0;
+	width:100%;	
+	margin-top: 3%;
+
+}
+
+.image_wrap9p{
+	padding-top: 50px;
+	width:85%;
+	height: 961px;
+	margin:0 auto;
+	margin-left: 8%;
+	margin-top: -4%;
+	display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+}
+
+/*----------------------------------------------first column--------------------------------
+-----------------1st item-------------------------------------------------------------------------------------------*/
+#col11{
+	width: 24%;
+	height:361px;
+	position: relative;
+	overflow: hidden;
+}
+#col11img{
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	z-index:0;
+}
+#ghost11{
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	background-color: rgba(0,0,0,0.75);
+	z-index:1;
+}
+
+/*------------------------------------------------------2nd item-----------------------------*/
+
+
+#col12{
+	width: 24%;
+	height:361px;
+	position: relative;
+	overflow: hidden;
+}
+#col12img{
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	z-index:0;
+}
+#ghost12{
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	background-color: rgba(0,0,0,0.75);
+	z-index:1;
+}
+/*-------------------------3rd item---------------------------------------------*/
+#col13{
+	width: 24%;
+	height:209px;
+	position: relative;
+	overflow: hidden;
+}
+#col13img{
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	z-index:0;
+}
+#ghost13{
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	background-color: rgba(0,0,0,0.75);
+	z-index:1;
+}
+
+
+/*----------------------------------------------second column--------------------------------
+-----------------1st item-------------------------------------------------------------------------------------------*/
+#col21{
+	width: 24%;
+	height:229px;
+	position: relative;
+	overflow: hidden;
+}
+#col21img{
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	z-index:0;
+}
+#ghost21{
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	background-color: rgba(0,0,0,0.75);
+	z-index:1;
+}
+
+/*------------------------------------------------------2nd item-----------------------------*/
+
+
+#col22{
+	width: 24%;
+	height:344px;
+	position: relative;
+	overflow: hidden;
+}
+#col22img{
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	z-index:0;
+}
+#ghost22{
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	background-color: rgba(0,0,0,0.75);
+	z-index:1;
+}
+/*-------------------------3rd item---------------------------------------------*/
+#col23{
+	width: 24%;
+	height:357px;
+	position: relative;
+	overflow: hidden;
+}
+#col23img{
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	z-index:0;
+}
+#ghost23{
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	background-color: rgba(0,0,0,0.75);
+	z-index:1;
+}
+
+
+
+
+/*----------------------------------------------third column--------------------------------
+-----------------1st item-------------------------------------------------------------------------------------------*/
+#col31{
+	width: 24%;
+	height:301px;
+	position: relative;
+	overflow: hidden;
+}
+#col31img{
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	z-index:0;
+}
+#ghost31{
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	background-color: rgba(0,0,0,0.75);
+	z-index:1;
+}
+
+/*------------------------------------------------------2nd item-----------------------------*/
+
+
+#col32{
+	width: 24%;
+	height:374px;
+	position: relative;
+	overflow: hidden;
+}
+#col32img{
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	z-index:0;
+}
+#ghost32{
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	background-color: rgba(0,0,0,0.75);
+	z-index:1;
+}
+/*-------------------------3rd item---------------------------------------------*/
+#col33{
+	width: 24%;
+	height:255px;
+	position: relative;
+	overflow: hidden;
+}
+#col33img{
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	z-index:0;
+}
+#ghost33{
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	background-color: rgba(0,0,0,0.75);
+	z-index:1;
+}
+
+
+/*----------------------------------------------fourth column--------------------------------
+-----------------1st item-------------------------------------------------------------------------------------------*/
+#col41{
+	width: 24%;
+	height:361px;
+	position: relative;
+	overflow: hidden;
+}
+#col41img{
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	z-index:0;
+}
+#ghost41{
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	background-color: rgba(0,0,0,0.75);
+	z-index:1;
+}
+
+/*------------------------------------------------------2nd item-----------------------------*/
+
+
+#col42{
+	width: 24%;
+	height:269px;
+	position: relative;
+	overflow: hidden;
+}
+#col42img{
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	z-index:0;
+}
+#ghost42{
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	background-color: rgba(0,0,0,0.75);
+	z-index:1;
+}
+/*-------------------------3rd item---------------------------------------------*/
+#col43{
+	width: 24%;
+	height:301px;
+	position: relative;
+	overflow: hidden;
+}
+#col43img{
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	z-index:0;
+}
+#ghost43{
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	width:100%;
+	height: 100%;                                                       
+	position: absolute;
+	top:0;
+	left:0;
+	background-color: rgba(0,0,0,0.75);
+	z-index:1;
+}
+
+.ghost{
+	text-align:center;
+	margin:auto 0;
+opacity:0;
+height:100%;
+
+}
+.ghost:hover{
+	opacity: 1;
+	transition: opacity .3s;
+	cursor: pointer;
+}
+
+.imgcont{
+	margin:0 6px 6px 0;
+}
+.imgcontr{
+	margin-right: 0;
+}
+.ghost h1{
+	color: #19bd9a;
+	font-size: 20px;
+	font-family: 'Source Sans Pro',sans-serif;
+	font-weight: 300;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+}
+.ghost p{
+	color: #b2b3b3;
+	font-family: 'Open Sans',sans-serif;
+	font-size: 12px;
+	letter-spacing: 1px;
+	line-height: 20px;
+	max-width: 200px;
+	margin:0 auto;
+}
+
+.ghost h1{
+	position: absolute;
+	top:20%;
+left:27%;
+}
+.ghost p{
+	position: absolute;
+	top:40%;
+left:15%;
+}
+
+
+
